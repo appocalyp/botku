@@ -1,5 +1,5 @@
 {
-  "name": "XBOT",
+  "name": "APPOCALYPSE",
   "version": "1.0.0",
   "description": "khusus termux",
   "main": "index.js",
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasap.git"
+    "url": "git+https://github.com/appocalyp/botku.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": " Ardy ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasap/issues"
+    "url": "https://github.com/appocalyp/botku/issues"
   },
-  "homepage": "https://github.com/affisjunianto/botwasap/readme"
+  "homepage": "https://github.com/appocalyp/botku/readme"
 }
